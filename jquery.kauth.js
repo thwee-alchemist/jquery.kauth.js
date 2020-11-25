@@ -144,8 +144,6 @@
     encoded = _percent_encode(raw);
     base_string = base_string.concat(encoded);
     
-
-    console.log(base_string);
     return base_string;
   };
   
